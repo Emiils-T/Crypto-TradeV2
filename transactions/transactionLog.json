@@ -1,0 +1,130 @@
+[
+    {
+        "transaction": "Bought BTC for $100",
+        "date": "2024-06-12T13:48:20.204263Z"
+    },
+    {
+        "transaction": "Bought ETH for $100",
+        "date": "2024-06-12T14:02:13.581351Z"
+    },
+    {
+        "transaction": "Sold Bitcoin",
+        "date": "2024-06-12T14:29:11.658255Z"
+    },
+    {
+        "transaction": "Bought BNB for $100",
+        "date": "2024-06-12T16:44:50.749152Z"
+    },
+    {
+        "transaction": "Bought TRX for $100",
+        "date": "2024-06-12T16:51:34.780250Z"
+    },
+    {
+        "transaction": "Bought BTC for $100",
+        "date": "2024-06-13T16:22:15.169283Z"
+    },
+    {
+        "transaction": "Bought BTC for $100",
+        "date": "2024-06-13T16:23:23.035037Z"
+    },
+    {
+        "transaction": "Bought ETH for $100",
+        "date": "2024-06-13T16:26:23.863392Z"
+    },
+    {
+        "transaction": "Bought BTC for $100",
+        "date": "2024-06-13T16:27:54.574816Z"
+    },
+    {
+        "transaction": "Bought USDT for $100",
+        "date": "2024-06-13T19:22:13.944713Z"
+    },
+    {
+        "transaction": "Bought BNB for $100",
+        "date": "2024-06-13T20:20:06.832007Z"
+    },
+    {
+        "transaction": "Bought BTC for $100",
+        "date": "2024-06-13T20:23:23.385823Z"
+    },
+    {
+        "transaction": "Sold Bitcoin",
+        "date": "2024-06-13T20:33:57.928418Z"
+    },
+    {
+        "transaction": "Sold BNB",
+        "date": "2024-06-14T10:48:40.348636Z"
+    },
+    {
+        "transaction": "Bought XRP for $100",
+        "date": "2024-06-14T10:49:48.630815Z"
+    },
+    {
+        "transaction": "Sold XRP",
+        "date": "2024-06-14T10:50:13.548706Z"
+    },
+    {
+        "transaction": "Sold XRP",
+        "date": "2024-06-14T10:50:46.847100Z"
+    },
+    {
+        "transaction": "Sold XRP",
+        "date": "2024-06-14T10:51:39.973603Z"
+    },
+    {
+        "transaction": "Bought TRX for $100",
+        "date": "2024-06-14T10:54:48.630149Z"
+    },
+    {
+        "transaction": "Sold Tether USDt",
+        "date": "2024-06-14T10:56:20.353316Z"
+    },
+    {
+        "transaction": "Sold TRON",
+        "date": "2024-06-14T10:58:44.242509Z"
+    },
+    {
+        "transaction": "Sold TRON",
+        "date": "2024-06-14T10:58:50.488075Z"
+    },
+    {
+        "transaction": "Sold TRON",
+        "date": "2024-06-14T10:58:55.079883Z"
+    },
+    {
+        "transaction": "Sold XRP",
+        "date": "2024-06-14T10:59:00.163274Z"
+    },
+    {
+        "transaction": "Sold TRON",
+        "date": "2024-06-14T11:00:41.401563Z"
+    },
+    {
+        "transaction": "Sold TRON",
+        "date": "2024-06-14T11:00:48.478712Z"
+    },
+    {
+        "transaction": "Sold Ethereum",
+        "date": "2024-06-14T11:01:04.023976Z"
+    },
+    {
+        "transaction": "Bought ETH for $100",
+        "date": "2024-06-14T11:06:11.590383Z"
+    },
+    {
+        "transaction": "Bought USDT for $100",
+        "date": "2024-06-14T11:06:33.003549Z"
+    },
+    {
+        "transaction": "Sold Tether USDt",
+        "date": "2024-06-14T11:09:33.006753Z"
+    },
+    {
+        "transaction": "Bought LINK for $100",
+        "date": "2024-06-14T11:10:40.637065Z"
+    },
+    {
+        "transaction": "Sold Chainlink",
+        "date": "2024-06-14T11:10:47.528708Z"
+    }
+]

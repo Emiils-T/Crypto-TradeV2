@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "amount": 0.027660131783054525,
+        "price": 3615.311770179749,
+        "purchasePrice": 100,
+        "dateOfPurchase": "2024-06-12T14:02:13.580441Z",
+        "value": 100,
+        "valueNow": 99.98335495752502,
+        "profit": -0.01664504247497689
+    },
+    {
+        "name": "BNB",
+        "symbol": "BNB",
+        "amount": 0.1590027348470394,
+        "price": 628.92,
+        "purchasePrice": 100,
+        "dateOfPurchase": "2024-06-12T16:44:50.748582Z",
+        "value": 100,
+        "valueNow": 100.22419385613435,
+        "profit": 0.22419385613434883
+    },
+    {
+        "name": "TRON",
+        "symbol": "TRX",
+        "amount": 849.8415045593997,
+        "price": 0.117669,
+        "purchasePrice": 100,
+        "dateOfPurchase": "2024-06-12T16:51:34.779037Z",
+        "value": 100,
+        "valueNow": 99.96515649831306,
+        "profit": -0.03484350168693595
+    }
+]
